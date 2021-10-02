@@ -26,7 +26,8 @@
 </p>
 
 ## :computer: Most Languages used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadhwaniv1&layout=compact)](https://github.com/ritikaxx/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadhwaniv1&langs_count=10&theme=tokyonight)](https://github.com/IB-14/github-readme-stats)
 
 ## 📈 My GIT Stats
 <p align="center">
