@@ -40,7 +40,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wadhwaniv1&theme=radical"/>
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=P-riyanka-prasad&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+<img src="https://activity-graph.herokuapp.com/graph?username=wadhwaniv1&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
