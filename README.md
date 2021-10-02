@@ -11,7 +11,7 @@
 ## :computer: Tech stack 
 * Front-end development :  HTML, CSS, Javascript, React, JQuery, Bootstrap, Figma
 * Backend development : NodeJs, ExpressJS
-* Dtabase : MySQL, MongoDB
+* Database : MySQL, MongoDB
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
