@@ -1,6 +1,11 @@
 # Hi there, I am Vishal Wadhwani👋
 # Welcome to my Github profile :)
  I am currently pursuing my B.Tech Computer Science degree from Vellore Institute of Technology, Vellore.
+ 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wadhwaniv1/count.svg" />
+</p>
 
 ## ABOUT ME
 - :computer: I'm currently working on Web development projects using MERN stack.
@@ -34,6 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wadhwaniv1&&show_icons=true&count_private=true&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wadhwaniv1&theme=radical"/>
 </p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=P-riyanka-prasad&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
