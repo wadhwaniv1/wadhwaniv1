@@ -34,7 +34,7 @@
 
 ## :computer: Most Languages used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wadhwaniv1&langs_count=10&theme=tokyonight)](https://github.com/IB-14/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadhwaniv1&langs_count=15&theme=tokyonight"/>
 
 ## 📈 My GIT Stats
 <p align="center">
